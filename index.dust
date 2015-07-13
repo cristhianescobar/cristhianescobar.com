@@ -39,9 +39,9 @@
 				{/projects}
 			</ul>
 			{?summary}
-				<div>
+				<header id="header">
 					<p>{summary}</p>
-				</div>
+				</header>
 			{/summary}
 		</div>
 		<footer id="footer"></footer>
