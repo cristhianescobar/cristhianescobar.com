@@ -54,6 +54,6 @@ app.get('*', function (request, response){
 });
 
 console.log('Server started on http://localhost:8080');
-app.listen(process.env.PORT || 8080);
+app.listen(process.env.PORT || 80);
 
 module.exports = app;

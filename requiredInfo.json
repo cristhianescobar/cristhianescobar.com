@@ -14,5 +14,7 @@
     {"icon": "mail", "link": "/email"}
   ],
   "projects": [
+   {"title": "About Cristhian", "link": "/about"},
+  {"title": "Android Starter Generator", "link":"/android-generator"}
   ]
 }
